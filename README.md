@@ -1,0 +1,2 @@
+# OneClickMiner
+Simple blockstack miner
